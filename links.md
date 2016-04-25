@@ -7,3 +7,5 @@ Bash para principiantes - http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 Cheatsheet de redireccion - http://www.catonmat.net/download/bash-redirections-cheat-sheet.pdf
 
 BASH scripting - http://tldp.org/LDP/abs/html/
+
+Juego para practicar - http://overthewire.org/wargames/bandit/
